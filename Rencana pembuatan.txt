@@ -3,6 +3,6 @@ Rencana Pembuatan Materi
 - Memperdalam ilmu di bidang web devloper
 - fokus di 1 bidang dalam waktu 2 tahun
 - Pengen belajar banyak hal tentang hal ini
-- Fokus belajar react js
-- memperdalam materi tailwind
-- belajar framework
+- fokus di bidang python
+- fokuskan kan ke webprogramming
+
